@@ -1,2 +1,2 @@
-# amndaw.github.io
+# AmndaW.github.io
 My website
